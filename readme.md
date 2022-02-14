@@ -5,7 +5,6 @@
 文章中涉及的工具仅供已授权的测试目标中使用，对未授权目标的测试所造成的后果均由本人自行承担。
 
 ## 界面预览
-
 ![image-20220119115513260](https://liocknote.oss-cn-chengdu.aliyuncs.com/uPic/image-20220119115513260.png)
 
 ## 漏洞检测
