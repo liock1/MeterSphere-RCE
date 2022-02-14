@@ -18,8 +18,7 @@ public class exp2 {
 ```
 
 2、编译后的exp.jar放置在MeterSphere未授权.py当前目录下
-
-<img width="552" alt="image" src="https://user-images.githubusercontent.com/97077302/153905001-35762611-577b-4996-b699-fdb26b2fab5d.png">
+![image-20220215002935526](https://liocknote.oss-cn-chengdu.aliyuncs.com/uPic/image-20220215002935526.png)
 
 ## 漏洞利用
 
